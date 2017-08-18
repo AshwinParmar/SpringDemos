@@ -1,5 +1,5 @@
 # RUN Spring Application #
- mvn spring-boot:run
+ `mvn spring-boot:run`
 
 # API Demo #
   > List all Persons
