@@ -1,0 +1,5 @@
+com/example/myproject/Application.class
+com/example/myproject/web/IndexController.class
+com/example/myproject/Application$1.class
+com/example/myproject/domain/Person.class
+com/example/myproject/domain/PersonRepository.class
